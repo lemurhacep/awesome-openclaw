@@ -4,6 +4,8 @@
 
 A curated list of high-signal resources for **OpenClaw** (formerly **Moltbot**, originally **Clawdbot**): frameworks, skills, tooling, deployments, and real-world use cases.
 
+OpenClaw is an open-source, self-hosted AI agent framework that connects LLMs to tools, messaging channels, and memory systems so agents can execute real workflows. Formerly known as Moltbot and Clawdbot, it is designed for extensibility through skills, plugins, and ecosystem integrations.
+
 ## Navigation
 
 - [Alternative Architectures](#alternative-architectures)
