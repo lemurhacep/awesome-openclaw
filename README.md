@@ -189,4 +189,4 @@ MIT. See [`LICENSE`](LICENSE).
 
 ---
 
-Made with 💙 by <a href="https://github.com/vincentkoc">Vincent Koc</a> · <a href="LICENSE">GPL-3.0</a>
+Made with 💙 by <a href="https://github.com/vincentkoc">Vincent Koc</a> · <a href="LICENSE">MIT</a>
