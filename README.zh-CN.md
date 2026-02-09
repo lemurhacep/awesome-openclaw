@@ -56,6 +56,7 @@ OpenClaw 是一个开源、自托管的 AI Agent 框架，可将大模型与工�
 
 - [gavrielc/nanoclaw](https://github.com/gavrielc/nanoclaw) - Lightweight alternative architecture/framework in the OpenClaw ecosystem. ![GitHub stars](https://img.shields.io/github/stars/gavrielc/nanoclaw?style=social)
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight personal AI assistant implementation. ![GitHub stars](https://img.shields.io/github/stars/HKUDS/nanobot?style=social)
+- [jlia0/tinyclaw](https://github.com/jlia0/tinyclaw) - 400 行代码实现的 OpenClaw。 ![GitHub stars](https://img.shields.io/github/stars/jlia0/tinyclaw?style=social)
 - [microclaw/microclaw](https://github.com/microclaw/microclaw) - Rust-based assistant with tool execution. ![GitHub stars](https://img.shields.io/github/stars/microclaw/microclaw?style=social)
 - [puremachinery/carapace](https://github.com/puremachinery/carapace) - Security-focused assistant with sandboxing and plugin isolation. ![GitHub stars](https://img.shields.io/github/stars/puremachinery/carapace?style=social)
 - [ysz/nanoClaw](https://github.com/ysz/nanoClaw) - Lightweight secure assistant with rapid setup. ![GitHub stars](https://img.shields.io/github/stars/ysz/nanoClaw?style=social)
