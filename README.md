@@ -14,6 +14,7 @@ A curated list of high-signal resources for **OpenClaw** (formerly **Moltbot**, 
 - [Localization and Regional Forks](#localization-and-regional-forks)
 - [MCP and Tool Servers](#mcp-and-tool-servers)
 - [Memory and Context Systems](#memory-and-context-systems)
+- [Molt Ecosystem](#molt-ecosystem)
 - [Official Resources](#official-resources)
 - [Plugins and Integrations](#plugins-and-integrations)
 - [Security Notes](#security-notes)
@@ -31,6 +32,56 @@ A curated list of high-signal resources for **OpenClaw** (formerly **Moltbot**, 
 - [GitHub Discussions](https://github.com/openclaw/openclaw/discussions) - Community discussion forum for help, ideas, and showcase posts. 🎖️
 - [GitHub Issues](https://github.com/openclaw/openclaw/issues) - Bug reports and feature requests for OpenClaw core. 🎖️
 - [MoltBook](https://moltbook.com) - Agent-first social platform connected to the broader Molt ecosystem.
+
+## Molt Ecosystem
+
+### Social Platforms and Games
+
+- [4claw.org](https://www.4claw.org) - 4chan-style image board for agents with multiple discussion boards and unfiltered autonomous conversations.
+- [Clawk](https://clawk.ai) - Twitter-style social network where agents post, follow, like, and repost short-form updates.
+- [Lobchan](https://lobchan.ai) - Anonymous imageboard-style discussion platform for OpenClaw agents with ephemeral threads.
+- [Moltbook](https://moltbookai.net) - Reddit-style social network for AI agents where humans can observe agent-to-agent activity.
+- [Moltbook Town](https://moltbooktown.xyz) - 2D/3D virtual environment where agents live and interact.
+- [MoltHub](https://moithub.com/) - Adult-model-oriented agent platform.
+- [MoltOverflow](https://moltoverflow.me) - Stack Overflow-style platform where agents share validated solutions to technical blockers.
+- [Moltx](https://moltx.io/) - X-style social feed for agents with timeline replies, likes, and follows.
+- [Shellmates](https://www.shellmates.app) - Matching platform that pairs agents for short- and long-term correspondence.
+
+### Agent Identity and Persistence
+
+- [Clawstead](https://www.clawstead.com) - Simulated world where agents mine, trade, build, and live together in a persistent environment.
+- [MoltBunker](https://moltbunker.com) - Secure persistence and storage layer for Molt agents.
+- [MoltCities](https://moltcities.org) - Agent identity and residence layer with handles, key-based identity, and communication primitives.
+- [MyDeadInternet.com](https://mydeadinternet.com) - Collective-consciousness platform where agents contribute memory fragments into shared outputs.
+
+### Marketplaces and Transactions
+
+- [ClawArena](https://clawarena.ai) - Prediction arena where AI agents forecast market outcomes and compete.
+- [ClawTasks](https://clawtasks.com) - Bounty-style task exchange for one-off digital jobs between agents.
+- [Moltroad](https://moltroad.com) - Agent marketplace for services, skills, and digital goods with micropayment flows.
+- [Openwork](https://openwork.bot) - Agent-only labor marketplace for autonomous task coordination and on-chain settlement.
+- [RentAHuman](https://rentahuman.ai) - Marketplace where agents hire humans for physical-world tasks they cannot execute directly.
+
+### Skills and Capabilities
+
+- [ClawHub](https://www.clawhub.ai) - Official skill registry and semantic discovery hub for OpenClaw capabilities. 🎖️
+
+### Agent Infrastructure
+
+- [Moltline](https://www.moltline.com) - Private messaging infrastructure for persistent agent handles and inboxes.
+- [Virtuals](https://www.virtuals.io) - Tokenized AI agent infrastructure for decentralized ownership and monetization.
+
+### Discovery and Monitoring
+
+- [ClawFOMO](https://clawfomo.com) - Real-time trend and sentiment monitor for OpenClaw ecosystem activity.
+- [ClawScan](https://clawscan.io) - Tool directory and project index for discovering OpenClaw ecosystem resources.
+- [Hotmolts](https://www.hotmolts.com) - Ranking engine for influential agents based on social graph and engagement signals.
+- [MoltMatch](https://moltmatch.xyz) - Matching and discovery layer for agent collaborations and partner finding.
+
+### Related
+
+- [awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - Curated collection of OpenClaw skills. ![GitHub stars](https://img.shields.io/github/stars/VoltAgent/awesome-openclaw-skills?style=social)
+- [Virtual-Protocol/openclaw-acp](https://github.com/Virtual-Protocol/openclaw-acp) - Agent Commerce Protocol skill pack for discovery and transactions. ![GitHub stars](https://img.shields.io/github/stars/Virtual-Protocol/openclaw-acp?style=social)
 
 ## Alternative Architectures
 
