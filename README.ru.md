@@ -61,7 +61,9 @@ OpenClaw — это open-source фреймворк self-hosted AI-агентов
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Ультралегкая реализация персонального AI-ассистента. ![GitHub stars](https://img.shields.io/github/stars/HKUDS/nanobot?style=social)
 - [jlia0/tinyclaw](https://github.com/jlia0/tinyclaw) - OpenClaw на 400 строках кода. ![GitHub stars](https://img.shields.io/github/stars/jlia0/tinyclaw?style=social)
 - [microclaw/microclaw](https://github.com/microclaw/microclaw) - Ассистент на Rust с выполнением инструментов. ![GitHub stars](https://img.shields.io/github/stars/microclaw/microclaw?style=social)
+- [memovai/mimiclaw](https://github.com/memovai/mimiclaw) - Превращает маленькую плату ESP32-S3 в персонального AI-ассистента. ![GitHub stars](https://img.shields.io/github/stars/memovai/mimiclaw?style=social)
 - [puremachinery/carapace](https://github.com/puremachinery/carapace) - Безопасностно-ориентированная реализация с sandboxing и изоляцией плагинов. ![GitHub stars](https://img.shields.io/github/stars/puremachinery/carapace?style=social)
+- [sipeed/picoclaw](https://github.com/sipeed/picoclaw) - Реализация на Go: работает на $10 железе с <10MB RAM. ![GitHub stars](https://img.shields.io/github/stars/sipeed/picoclaw?style=social)
 - [ysz/nanoClaw](https://github.com/ysz/nanoClaw) - Легкий и более безопасный ассистент с быстрым стартом. ![GitHub stars](https://img.shields.io/github/stars/ysz/nanoClaw?style=social)
 
 <a id="official-resources"></a>
