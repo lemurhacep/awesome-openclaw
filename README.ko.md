@@ -178,6 +178,29 @@ OpenClaw는 LLM을 도구, 메시징 채널, 메모리 시스템에 연결해 �
 
 ## 배포 및 운영
 
+### 관리형 호스팅 및 설정
+
+아래 제공업체는 초기 구성을 대신 처리합니다. Docker, 터미널, DevOps 없이 시작할 수 있습니다.
+
+- [Agent37](https://www.agent37.com/openclaw) - 빠른 프로비저닝을 제공하는 관리형 OpenClaw 인스턴스. 💵
+- [ClawCloud](https://www.clawcloud.sh/) - 자동 업데이트/백업을 제공하는 관리형 OpenClaw 호스팅. 💵
+- [ClawSimple](https://clawsimple.com/en) - 간단한 요금제로 제공되는 관리형 OpenClaw 호스팅. 💵
+- [Contabo OpenClaw](https://contabo.com/en/openclaw-hosting/) - 예측 가능한 가격의 VPS 기반 OpenClaw 호스팅 옵션. 💵
+- [EasyClaw](https://www.easyclaw.pro/en) - 멀티 모델 지원 관리형 OpenClaw 셋업. 💵
+- [GetClawHelp](https://getclawhelp.com/) - 내 VPS에 OpenClaw를 설치해주는 유료 1:1 셋업 지원. 💵
+- [get-open-claw.com](https://www.get-open-claw.com/) - 백업/모니터링 옵션이 있는 관리형 OpenClaw 셋업. 💵
+- [Kilo Claw](https://kilo.ai/kiloclaw) - SSO 및 감사 기능을 제공하는 관리형 OpenClaw 플랫폼. 💵
+- [MyClaw.ai](https://myclaw.ai/pricing) - 즉시 셋업과 백업을 제공하는 관리형 OpenClaw 인스턴스. 💵
+- [Myclawhost](https://www.myclawhost.com/) - 단계별 요금제를 제공하는 관리형 OpenClaw 호스팅. 💵
+- [OpenClaw Cloud](https://openclawcloud.work/) - 관리형 OpenClaw 클라우드 서비스(베타). 💵
+- [OpenClaw Hosting](https://openclawhosting.io/pricing) - 개인/팀 플랜을 제공하는 관리형 OpenClaw 호스팅. 💵
+- [OpenClaw Voice](https://openclawvoice.com/) - 브라우저에서 사용하는 관리형 OpenClaw 음성 인터페이스. 💵
+- [OpenClawd.ai](https://finance.yahoo.com/news/openclaw-introduces-secure-hosted-clawdbot-204800756.html) - 관리형 호스팅 OpenClaw 서비스(발표 기사). 💵
+- [SimpleClaw](https://www.simpleclaw.com/) - 관리형 OpenClaw 호스팅(얼리 액세스). 💵
+- [xCloud](https://xcloud.host/openclaw-hosting) - 암호화 백업 옵션이 있는 관리형 OpenClaw 호스팅. 💵
+
+### 셀프호스팅 배포 및 인프라
+
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - OpenClaw 배포에 자주 쓰이는 셀프호스팅 서버 패널. ![GitHub stars](https://img.shields.io/github/stars/1Panel-dev/1Panel?style=social)
 - [badrisnarayanan/antigravity-claude-proxy](https://github.com/badrisnarayanan/antigravity-claude-proxy) - 어시스턴트 워크플로에서 모델 접근을 위한 프록시/라우팅 지원. ![GitHub stars](https://img.shields.io/github/stars/badrisnarayanan/antigravity-claude-proxy?style=social)
 - [BlockRunAI/ClawRouter](https://github.com/BlockRunAI/ClawRouter) - OpenClaw 계열 에이전트의 라우팅/비용 최적화 레이어. ![GitHub stars](https://img.shields.io/github/stars/BlockRunAI/ClawRouter?style=social)

@@ -178,6 +178,29 @@ OpenClaw — это open-source фреймворк self-hosted AI-агентов
 
 ## Развертывание и эксплуатация
 
+### Управляемый хостинг и настройка
+
+Эти провайдеры берут настройку на себя: без Docker, без терминала и без DevOps.
+
+- [Agent37](https://www.agent37.com/openclaw) - Управляемый инстанс OpenClaw с быстрым запуском. 💵
+- [ClawCloud](https://www.clawcloud.sh/) - Управляемый OpenClaw-хостинг с автообновлениями и бэкапами. 💵
+- [ClawSimple](https://clawsimple.com/en) - Управляемый OpenClaw-хостинг с простыми тарифами и быстрым запуском. 💵
+- [Contabo OpenClaw](https://contabo.com/en/openclaw-hosting/) - VPS-вариант хостинга OpenClaw с предсказуемой ценой. 💵
+- [EasyClaw](https://www.easyclaw.pro/en) - Управляемый OpenClaw-сетап с поддержкой нескольких моделей. 💵
+- [GetClawHelp](https://getclawhelp.com/) - Платная 1:1-помощь по установке OpenClaw на ваш VPS. 💵
+- [get-open-claw.com](https://www.get-open-claw.com/) - Управляемый OpenClaw-сетап с опциями бэкапов и мониторинга. 💵
+- [Kilo Claw](https://kilo.ai/kiloclaw) - Управляемая OpenClaw-платформа с SSO и аудитом. 💵
+- [MyClaw.ai](https://myclaw.ai/pricing) - Управляемый OpenClaw-инстанс с моментальным запуском и бэкапами. 💵
+- [Myclawhost](https://www.myclawhost.com/) - Управляемый OpenClaw-хостинг с многоуровневыми тарифами. 💵
+- [OpenClaw Cloud](https://openclawcloud.work/) - Управляемое облачное OpenClaw-предложение (бета). 💵
+- [OpenClaw Hosting](https://openclawhosting.io/pricing) - Управляемый OpenClaw-хостинг с тарифами для solo и team. 💵
+- [OpenClaw Voice](https://openclawvoice.com/) - Управляемый голосовой интерфейс OpenClaw в браузере. 💵
+- [OpenClawd.ai](https://finance.yahoo.com/news/openclaw-introduces-secure-hosted-clawdbot-204800756.html) - Управляемое хостинговое OpenClaw-предложение (анонс). 💵
+- [SimpleClaw](https://www.simpleclaw.com/) - Управляемый OpenClaw-хостинг (ранний доступ). 💵
+- [xCloud](https://xcloud.host/openclaw-hosting) - Управляемый OpenClaw-хостинг с опциями зашифрованных бэкапов. 💵
+
+### Self-hosted деплой и инфраструктура
+
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - Self-hosted панель сервера, часто используемая для деплоя OpenClaw. ![GitHub stars](https://img.shields.io/github/stars/1Panel-dev/1Panel?style=social)
 - [badrisnarayanan/antigravity-claude-proxy](https://github.com/badrisnarayanan/antigravity-claude-proxy) - Прокси и роутинг для доступа к моделям в workflow ассистентов. ![GitHub stars](https://img.shields.io/github/stars/badrisnarayanan/antigravity-claude-proxy?style=social)
 - [BlockRunAI/ClawRouter](https://github.com/BlockRunAI/ClawRouter) - Слой роутинга и оптимизации затрат для OpenClaw-подобных агентных сетапов. ![GitHub stars](https://img.shields.io/github/stars/BlockRunAI/ClawRouter?style=social)

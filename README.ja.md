@@ -178,6 +178,29 @@ OpenClaw は、LLM をツール・メッセージチャネル・メモリと接�
 
 ## デプロイと運用
 
+### マネージドホスティングとセットアップ
+
+以下のプロバイダーはセットアップを代行します。Docker・ターミナル・DevOpsは不要です。
+
+- [Agent37](https://www.agent37.com/openclaw) - 高速プロビジョニング対応のマネージド OpenClaw インスタンス。 💵
+- [ClawCloud](https://www.clawcloud.sh/) - 自動更新とバックアップを備えたマネージド OpenClaw ホスティング。 💵
+- [ClawSimple](https://clawsimple.com/en) - シンプルなプランで使えるマネージド OpenClaw ホスティング。 💵
+- [Contabo OpenClaw](https://contabo.com/en/openclaw-hosting/) - 価格が読みやすい VPS ベースの OpenClaw ホスティング。 💵
+- [EasyClaw](https://www.easyclaw.pro/en) - 複数モデル対応のマネージド OpenClaw セットアップ。 💵
+- [GetClawHelp](https://getclawhelp.com/) - あなたの VPS で OpenClaw を構築する有料 1:1 セットアップ支援。 💵
+- [get-open-claw.com](https://www.get-open-claw.com/) - バックアップ/監視オプション付きのマネージド OpenClaw セットアップ。 💵
+- [Kilo Claw](https://kilo.ai/kiloclaw) - SSO と監査機能を備えたマネージド OpenClaw プラットフォーム。 💵
+- [MyClaw.ai](https://myclaw.ai/pricing) - 即時セットアップとバックアップ対応のマネージド OpenClaw インスタンス。 💵
+- [Myclawhost](https://www.myclawhost.com/) - 段階プランを備えたマネージド OpenClaw ホスティング。 💵
+- [OpenClaw Cloud](https://openclawcloud.work/) - マネージド OpenClaw クラウド提供（ベータ）。 💵
+- [OpenClaw Hosting](https://openclawhosting.io/pricing) - ソロ/チーム向けプランがあるマネージド OpenClaw ホスティング。 💵
+- [OpenClaw Voice](https://openclawvoice.com/) - ブラウザで使えるマネージド OpenClaw 音声インターフェース。 💵
+- [OpenClawd.ai](https://finance.yahoo.com/news/openclaw-introduces-secure-hosted-clawdbot-204800756.html) - マネージド OpenClaw ホスティング提供（発表記事）。 💵
+- [SimpleClaw](https://www.simpleclaw.com/) - マネージド OpenClaw ホスティング（早期提供）。 💵
+- [xCloud](https://xcloud.host/openclaw-hosting) - 暗号化バックアップオプション付きのマネージド OpenClaw ホスティング。 💵
+
+### セルフホスト展開とインフラ
+
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - OpenClawデプロイで使われることの多いセルフホストのサーバーパネル。 ![GitHub stars](https://img.shields.io/github/stars/1Panel-dev/1Panel?style=social)
 - [badrisnarayanan/antigravity-claude-proxy](https://github.com/badrisnarayanan/antigravity-claude-proxy) - アシスタントワークフロー向けのモデルアクセス用プロキシ/ルーティング。 ![GitHub stars](https://img.shields.io/github/stars/badrisnarayanan/antigravity-claude-proxy?style=social)
 - [BlockRunAI/ClawRouter](https://github.com/BlockRunAI/ClawRouter) - OpenClaw系エージェントのルーティング/コスト最適化レイヤー。 ![GitHub stars](https://img.shields.io/github/stars/BlockRunAI/ClawRouter?style=social)

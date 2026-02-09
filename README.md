@@ -168,6 +168,7 @@ These providers handle the setup for you: no Docker, no terminal, no DevOps requ
 - [Myclawhost](https://www.myclawhost.com/) - Managed OpenClaw hosting with tiered plans. 💵
 - [OpenClaw Cloud](https://openclawcloud.work/) - Managed OpenClaw cloud offering (beta). 💵
 - [OpenClaw Hosting](https://openclawhosting.io/pricing) - Managed OpenClaw hosting with solo/team tiers. 💵
+- [OpenClaw Voice](https://openclawvoice.com/) - Managed OpenClaw voice interface in the browser. 💵
 - [OpenClawd.ai](https://finance.yahoo.com/news/openclaw-introduces-secure-hosted-clawdbot-204800756.html) - Managed hosted OpenClaw offering (announcement). 💵
 - [SimpleClaw](https://www.simpleclaw.com/) - Managed OpenClaw hosting (early access). 💵
 - [xCloud](https://xcloud.host/openclaw-hosting) - Managed OpenClaw hosting with encrypted backups options. 💵

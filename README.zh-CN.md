@@ -178,6 +178,29 @@ OpenClaw 是一个开源、自托管的 AI Agent 框架，可将大模型与工�
 
 ## 部署与运维
 
+### 托管服务与快速部署
+
+以下服务商可代你完成部署：无需 Docker、终端或 DevOps。
+
+- [Agent37](https://www.agent37.com/openclaw) - 托管 OpenClaw 实例，支持快速开通。 💵
+- [ClawCloud](https://www.clawcloud.sh/) - 托管 OpenClaw，提供自动更新与备份。 💵
+- [ClawSimple](https://clawsimple.com/en) - 托管 OpenClaw，提供简洁套餐与快速配置。 💵
+- [Contabo OpenClaw](https://contabo.com/en/openclaw-hosting/) - 基于 VPS 的 OpenClaw 托管方案，定价可预期。 💵
+- [EasyClaw](https://www.easyclaw.pro/en) - 托管 OpenClaw 配置，支持多模型。 💵
+- [GetClawHelp](https://getclawhelp.com/) - 付费 1 对 1 指导，在你的 VPS 上完成 OpenClaw 部署。 💵
+- [get-open-claw.com](https://www.get-open-claw.com/) - 托管 OpenClaw 配置，含备份与监控选项。 💵
+- [Kilo Claw](https://kilo.ai/kiloclaw) - 托管 OpenClaw 平台，支持 SSO 与审计能力。 💵
+- [MyClaw.ai](https://myclaw.ai/pricing) - 托管 OpenClaw 实例，支持即刻开通与备份。 💵
+- [Myclawhost](https://www.myclawhost.com/) - 托管 OpenClaw，提供分层套餐。 💵
+- [OpenClaw Cloud](https://openclawcloud.work/) - 托管 OpenClaw 云服务（Beta）。 💵
+- [OpenClaw Hosting](https://openclawhosting.io/pricing) - 托管 OpenClaw，提供个人/团队套餐。 💵
+- [OpenClaw Voice](https://openclawvoice.com/) - 浏览器内托管 OpenClaw 语音界面。 💵
+- [OpenClawd.ai](https://finance.yahoo.com/news/openclaw-introduces-secure-hosted-clawdbot-204800756.html) - 托管 OpenClaw 服务方案（公告）。 💵
+- [SimpleClaw](https://www.simpleclaw.com/) - 托管 OpenClaw（早期可用）。 💵
+- [xCloud](https://xcloud.host/openclaw-hosting) - 托管 OpenClaw，提供加密备份选项。 💵
+
+### 自托管部署与基础设施
+
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 常用于 OpenClaw 部署的自托管服务器面板。 ![GitHub stars](https://img.shields.io/github/stars/1Panel-dev/1Panel?style=social)
 - [badrisnarayanan/antigravity-claude-proxy](https://github.com/badrisnarayanan/antigravity-claude-proxy) - 为助手工作流提供模型访问的代理与路由支持。 ![GitHub stars](https://img.shields.io/github/stars/badrisnarayanan/antigravity-claude-proxy?style=social)
 - [BlockRunAI/ClawRouter](https://github.com/BlockRunAI/ClawRouter) - OpenClaw 风格 Agent 的路由与成本优化层。 ![GitHub stars](https://img.shields.io/github/stars/BlockRunAI/ClawRouter?style=social)

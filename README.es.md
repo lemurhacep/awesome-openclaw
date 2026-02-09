@@ -178,6 +178,29 @@ OpenClaw es un framework de agentes de IA, open source y autoalojado, que conect
 
 ## Despliegue y operaciones
 
+### Hosting gestionado y configuracion
+
+Estos proveedores se encargan de la puesta en marcha: sin Docker, sin terminal y sin DevOps.
+
+- [Agent37](https://www.agent37.com/openclaw) - Instancia gestionada de OpenClaw con aprovisionamiento rapido. 💵
+- [ClawCloud](https://www.clawcloud.sh/) - Hosting gestionado de OpenClaw con actualizaciones y copias de seguridad automaticas. 💵
+- [ClawSimple](https://clawsimple.com/en) - Hosting gestionado de OpenClaw con planes simples y setup rapido. 💵
+- [Contabo OpenClaw](https://contabo.com/en/openclaw-hosting/) - Opcion de hosting OpenClaw basada en VPS con precios predecibles. 💵
+- [EasyClaw](https://www.easyclaw.pro/en) - Setup gestionado de OpenClaw con soporte multi-modelo. 💵
+- [GetClawHelp](https://getclawhelp.com/) - Asistencia 1:1 de pago para configurar OpenClaw en tu VPS. 💵
+- [get-open-claw.com](https://www.get-open-claw.com/) - Setup gestionado de OpenClaw con opciones de backup y monitoreo. 💵
+- [Kilo Claw](https://kilo.ai/kiloclaw) - Plataforma OpenClaw gestionada con SSO y capacidades de auditoria. 💵
+- [MyClaw.ai](https://myclaw.ai/pricing) - Instancia OpenClaw gestionada con puesta en marcha inmediata y backups. 💵
+- [Myclawhost](https://www.myclawhost.com/) - Hosting gestionado de OpenClaw con planes por niveles. 💵
+- [OpenClaw Cloud](https://openclawcloud.work/) - Oferta cloud gestionada de OpenClaw (beta). 💵
+- [OpenClaw Hosting](https://openclawhosting.io/pricing) - Hosting gestionado de OpenClaw con planes solo/equipo. 💵
+- [OpenClaw Voice](https://openclawvoice.com/) - Interfaz de voz gestionada para OpenClaw en navegador. 💵
+- [OpenClawd.ai](https://finance.yahoo.com/news/openclaw-introduces-secure-hosted-clawdbot-204800756.html) - Oferta gestionada de OpenClaw alojado (anuncio). 💵
+- [SimpleClaw](https://www.simpleclaw.com/) - Hosting gestionado de OpenClaw (acceso temprano). 💵
+- [xCloud](https://xcloud.host/openclaw-hosting) - Hosting gestionado de OpenClaw con opciones de backups cifrados. 💵
+
+### Despliegue self-hosted e infraestructura
+
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - Panel de servidor self-hosted usado a menudo para despliegues de OpenClaw. ![GitHub stars](https://img.shields.io/github/stars/1Panel-dev/1Panel?style=social)
 - [badrisnarayanan/antigravity-claude-proxy](https://github.com/badrisnarayanan/antigravity-claude-proxy) - Proxy y routing para acceso a modelos en flujos de asistentes. ![GitHub stars](https://img.shields.io/github/stars/badrisnarayanan/antigravity-claude-proxy?style=social)
 - [BlockRunAI/ClawRouter](https://github.com/BlockRunAI/ClawRouter) - Capa de routing y optimizacion de costes para setups de agentes tipo OpenClaw. ![GitHub stars](https://img.shields.io/github/stars/BlockRunAI/ClawRouter?style=social)

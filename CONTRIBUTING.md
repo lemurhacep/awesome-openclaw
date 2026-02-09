@@ -16,8 +16,8 @@ Please submit a PR with:
 
 - Keep entries in strict A-Z order within each section.
 - Keep each entry to a single bullet line (no wrapped sub-bullets for descriptions).
-- Use this format: `- [name](url) - short description. \`Tag\` \`Tag\``.
-- Use tags from the README legend and keep tag order consistent.
+- Use this format: `- [name](url) - short description.`
+- Add status markers only when applicable: `🎖️` for official resources and `💵` for paid services.
 - For GitHub repository links, append stars badge: `![GitHub stars](https://img.shields.io/github/stars/owner/repo?style=social)`.
 
 ## Commit and PR Conventions
