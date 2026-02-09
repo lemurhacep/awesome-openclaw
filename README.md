@@ -186,3 +186,7 @@ Please include a short relevance note when submitting a new entry.
 ## License
 
 MIT. See [`LICENSE`](LICENSE).
+
+---
+
+Made with 💙 by <a href="https://github.com/vincentkoc">Vincent Koc</a> · <a href="LICENSE">GPL-3.0</a>
