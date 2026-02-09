@@ -152,6 +152,28 @@ OpenClaw is an open-source, self-hosted AI agent framework that connects LLMs to
 
 ## Deployment and Operations
 
+### Managed Hosting and Setup
+
+These providers handle the setup for you: no Docker, no terminal, no DevOps required.
+
+- [Agent37](https://www.agent37.com/openclaw) - Managed OpenClaw instance with near-instant provisioning. 💵
+- [ClawCloud](https://www.clawcloud.sh/) - Managed OpenClaw hosting with auto-updates and backups. 💵
+- [ClawSimple](https://clawsimple.com/en) - Managed OpenClaw hosting with simple plans and setup. 💵
+- [Contabo OpenClaw](https://contabo.com/en/openclaw-hosting/) - VPS-based OpenClaw hosting option with predictable pricing. 💵
+- [EasyClaw](https://www.easyclaw.pro/en) - Managed OpenClaw setup with multi-model support. 💵
+- [GetClawHelp](https://getclawhelp.com/) - One-time 1-on-1 assisted setup for OpenClaw on your VPS. 💵
+- [get-open-claw.com](https://www.get-open-claw.com/) - Managed OpenClaw setup with backups and monitoring options. 💵
+- [Kilo Claw](https://kilo.ai/kiloclaw) - Managed OpenClaw platform with SSO and audit features. 💵
+- [MyClaw.ai](https://myclaw.ai/pricing) - Managed OpenClaw instance with instant setup and backups. 💵
+- [Myclawhost](https://www.myclawhost.com/) - Managed OpenClaw hosting with tiered plans. 💵
+- [OpenClaw Cloud](https://openclawcloud.work/) - Managed OpenClaw cloud offering (beta). 💵
+- [OpenClaw Hosting](https://openclawhosting.io/pricing) - Managed OpenClaw hosting with solo/team tiers. 💵
+- [OpenClawd.ai](https://finance.yahoo.com/news/openclaw-introduces-secure-hosted-clawdbot-204800756.html) - Managed hosted OpenClaw offering (announcement). 💵
+- [SimpleClaw](https://www.simpleclaw.com/) - Managed OpenClaw hosting (early access). 💵
+- [xCloud](https://xcloud.host/openclaw-hosting) - Managed OpenClaw hosting with encrypted backups options. 💵
+
+### Self-Hosted Deployment and Infrastructure
+
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - Self-hosted server panel often used for OpenClaw deployments. ![GitHub stars](https://img.shields.io/github/stars/1Panel-dev/1Panel?style=social)
 - [badrisnarayanan/antigravity-claude-proxy](https://github.com/badrisnarayanan/antigravity-claude-proxy) - Proxy and routing support for model access in assistant workflows. ![GitHub stars](https://img.shields.io/github/stars/badrisnarayanan/antigravity-claude-proxy?style=social)
 - [BlockRunAI/ClawRouter](https://github.com/BlockRunAI/ClawRouter) - Routing and cost optimization layer for OpenClaw-style agent setups. ![GitHub stars](https://img.shields.io/github/stars/BlockRunAI/ClawRouter?style=social)
