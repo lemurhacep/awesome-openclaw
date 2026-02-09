@@ -112,9 +112,9 @@ A curated list of high-signal resources for **OpenClaw** (formerly **Moltbot**, 
 
 ## Skills and Skill Indexes
 
-- [BankrBot/openclaw-skills](https://github.com/BankrBot/openclaw-skills) - Community skill library with automation and finance-oriented integrations. ![GitHub stars](https://img.shields.io/github/stars/BankrBot/openclaw-skills?style=social)
+- [BankrBot/openclaw-skills](https://github.com/BankrBot/openclaw-skills) - Community skill library focused on automation and finance. ![GitHub stars](https://img.shields.io/github/stars/BankrBot/openclaw-skills?style=social)
 - [clawdbot/skills](https://github.com/clawdbot/skills) - Legacy alias path to historical skill archive content. ![GitHub stars](https://img.shields.io/github/stars/clawdbot/skills?style=social)
-- [jdrhyne/agent-skills](https://github.com/jdrhyne/agent-skills) - Agent skill packs and reusable workflow extensions for OpenClaw-compatible setups. ![GitHub stars](https://img.shields.io/github/stars/jdrhyne/agent-skills?style=social)
+- [jdrhyne/agent-skills](https://github.com/jdrhyne/agent-skills) - Agent skill packs and reusable workflow extensions. ![GitHub stars](https://img.shields.io/github/stars/jdrhyne/agent-skills?style=social)
 - [lekt9/unbrowse-openclaw](https://github.com/lekt9/unbrowse-openclaw) - API-skill generation workflow from captured web/API traffic. ![GitHub stars](https://img.shields.io/github/stars/lekt9/unbrowse-openclaw?style=social)
 - [openclaw/clawhub](https://github.com/openclaw/clawhub) - Official skill directory and discovery surface. 🎖️ ![GitHub stars](https://img.shields.io/github/stars/openclaw/clawhub?style=social)
 - [openclaw/skills](https://github.com/openclaw/skills) - Archived versions of skills published on ClawHub. 🎖️ ![GitHub stars](https://img.shields.io/github/stars/openclaw/skills?style=social)
