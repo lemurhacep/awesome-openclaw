@@ -150,7 +150,7 @@ A curated list of high-signal resources for **OpenClaw** (formerly **Moltbot**, 
 - [coollabsio/openclaw](https://github.com/coollabsio/openclaw) - Automated Docker flow for OpenClaw hosting. ![GitHub stars](https://img.shields.io/github/stars/coollabsio/openclaw?style=social)
 - [essamamdani/openclaw-coolify](https://github.com/essamamdani/openclaw-coolify) - Coolify template for simplified OpenClaw hosting. ![GitHub stars](https://img.shields.io/github/stars/essamamdani/openclaw-coolify?style=social)
 - [khal3d/openclaw](https://github.com/khal3d/openclaw) - Container and Helm deployment stack for OpenClaw. ![GitHub stars](https://img.shields.io/github/stars/khal3d/openclaw?style=social)
-- [miantiao-me/cloud-claw](https://github.com/miantiao-me/cloud-claw) - One-click Cloudflare Containers deployment for personal OpenClaw agents. ![GitHub stars](https://img.shields.io/github/stars/miantiao-me/cloud-claw?style=social)
+- [miantiao-me/cloud-claw](https://github.com/miantiao-me/cloud-claw) - Cloudflare Containers deployment for personal openclaw. ![GitHub stars](https://img.shields.io/github/stars/miantiao-me/cloud-claw?style=social)
 - [miaoxworld/OpenClawInstaller](https://github.com/miaoxworld/OpenClawInstaller) - Installer and setup automation helper. ![GitHub stars](https://img.shields.io/github/stars/miaoxworld/OpenClawInstaller?style=social)
 - [MoltBunker](https://moltbunker.com) - Secure persistence and storage layer for agents.
 - [MoltCities](https://moltcities.org) - Identity and residence layer with handles and key-based identity.
