@@ -83,6 +83,7 @@ A curated list of high-signal resources for **OpenClaw** (formerly **Moltbot**, 
 - [lekt9/unbrowse-openclaw](https://github.com/lekt9/unbrowse-openclaw) - API-skill generation workflow from captured web/API traffic. `Community` `OSS` `Skills`
 - [openclaw/clawhub](https://github.com/openclaw/clawhub) - Official skill directory and discovery surface. `Official` `OSS` `Skills`
 - [openclaw/skills](https://github.com/openclaw/skills) - Archived versions of skills published on ClawHub. `Official` `OSS` `Skills` `Archived`
+- [runkids/skillshare](https://github.com/runkids/skillshare) - Share and synchronize skill packs across AI coding tools. `Community` `OSS` `Skills`
 
 ## Plugins and Integrations
 
@@ -94,6 +95,7 @@ A curated list of high-signal resources for **OpenClaw** (formerly **Moltbot**, 
 - [flooredApe/openclaw-xmtp](https://github.com/flooredApe/openclaw-xmtp) - XMTP wallet messaging channel plugin for Web3-native communication. `Community` `OSS` `Plugins`
 - [kcherry497/OpenClaw-IRC-Plugin](https://github.com/kcherry497/OpenClaw-IRC-Plugin) - IRC channel plugin built around KISS security principles. `Community` `OSS` `Plugins`
 - [m1heng/clawdbot-feishu](https://github.com/m1heng/clawdbot-feishu) - Feishu/Lark channel plugin with enterprise bot support. `Community` `OSS` `Plugins`
+- [marshallrichards/ClawPhone](https://github.com/marshallrichards/ClawPhone) - Mobile companion and phone-first interface for OpenClaw workflows. `Community` `OSS` `Plugins`
 - [magicwang1111/openclaw-wechat-plugin](https://github.com/magicwang1111/openclaw-wechat-plugin) - WeChat messaging integration plugin. `Community` `OSS` `Plugins`
 - [MemTensor/MemOS-Cloud-OpenClaw-Plugin](https://github.com/MemTensor/MemOS-Cloud-OpenClaw-Plugin) - Cloud memory backend plugin for persistent recall and capture. `Community` `OSS` `Plugins`
 - [rickybloomfield/OuraClaw](https://github.com/rickybloomfield/OuraClaw) - Oura integration plugin for readiness, sleep, and activity summaries. `Community` `OSS` `Plugins`
@@ -113,6 +115,7 @@ A curated list of high-signal resources for **OpenClaw** (formerly **Moltbot**, 
 
 - [mem0.ai: Memory for OpenClaw](https://mem0.ai/blog/mem0-memory-for-openclaw) - Mem0 engineering write-up and setup path for persistent OpenClaw memory. `Community` `Docs` `Paid`
 - [Mem0 OpenClaw Integration Docs](https://docs.mem0.ai/integrations/openclaw) - Integration documentation for Mem0-backed OpenClaw memory. `Community` `Docs` `Paid`
+- [memovai/memov](https://github.com/memovai/memov) - Memory layer and retrieval toolkit for persistent OpenClaw context. `Community` `OSS`
 - [MemTensor/MemOS](https://github.com/MemTensor/MemOS) - Memory operating system with OpenClaw ecosystem adoption. `Community` `OSS`
 - [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - Agent memory layer for long-lived assistants. `Community` `OSS`
 - [nhevers/MoltBrain](https://github.com/nhevers/MoltBrain) - Long-term memory layer for OpenClaw and MoltBook agent workflows. `Community` `OSS` `Plugins`
@@ -127,6 +130,8 @@ A curated list of high-signal resources for **OpenClaw** (formerly **Moltbot**, 
 - [bokonon23/clawdbot-cost-monitor](https://github.com/bokonon23/clawdbot-cost-monitor) - Cost and spending monitor for OpenClaw/Clawdbot usage. `Community` `OSS`
 - [grp06/openclaw-studio](https://github.com/grp06/openclaw-studio) - Studio-style web IDE and management UI for OpenClaw workflows. `Community` `OSS`
 - [ibelick/webclaw](https://github.com/ibelick/webclaw) - Fast web client interface for OpenClaw interactions. `Community` `OSS`
+- [Intina47/context-sync](https://github.com/Intina47/context-sync) - Context synchronization utility for multi-session agent workflows. `Community` `OSS`
+- [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Local UI for managing and interacting with OpenClaw-style agent systems. `Community` `OSS`
 - [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) - Token and cost tracking across coding assistant workflows. `Community` `OSS`
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Transferable skill-pack patterns useful for OpenClaw skill design. `Community` `OSS` `Skills`
 - [luccast/crabwalk](https://github.com/luccast/crabwalk) - Monitoring companion for OpenClaw agent sessions. `Community` `OSS`
