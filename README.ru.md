@@ -5,9 +5,9 @@
 
 ![Awesome OpenClaw Banner](banner.jpg)
 
-A curated list of high-signal resources for **OpenClaw** (formerly **Moltbot**, originally **Clawdbot**): frameworks, skills, tooling, deployments, and real-world use cases.
+Кураторский список высокосигнальных ресурсов по **OpenClaw** (ранее **Moltbot**, изначально **Clawdbot**): фреймворки, навыки, инструменты, деплой и реальные кейсы.
 
-OpenClaw is an open-source, self-hosted AI agent framework that connects LLMs to tools, messaging channels, and memory systems so agents can execute real workflows. Formerly known as Moltbot and Clawdbot, it is designed for extensibility through skills, plugins, and ecosystem integrations.
+OpenClaw — это open-source фреймворк self-hosted AI-агентов, который связывает LLM с инструментами, каналами сообщений и системами памяти, чтобы агенты выполняли реальные рабочие процессы. Ранее проект назывался Moltbot и Clawdbot; он рассчитан на расширяемость через skills, плагины и интеграции экосистемы.
 
 ## Navigation
 
@@ -28,8 +28,8 @@ OpenClaw is an open-source, self-hosted AI agent framework that connects LLMs to
 
 ## Status Markers
 
-- 🎖️ Official OpenClaw-maintained resource (org repo, official docs, or official channels).
-- 💵 Paid service or paid tier commonly required for full functionality.
+- 🎖️ Официальный ресурс, поддерживаемый OpenClaw (репозиторий организации, официальная документация или каналы).
+- 💵 Для полного использования часто требуется платный сервис/тариф.
 
 ---
 
@@ -185,11 +185,11 @@ OpenClaw is an open-source, self-hosted AI agent framework that connects LLMs to
 
 ## Contributing
 
-PRs are welcome for:
+PR приветствуются для:
 
-- New high-signal OpenClaw ecosystem links.
-- Better categorization and section quality.
-- Dead-link cleanup and stale project removal.
+- Добавления качественных ссылок по экосистеме OpenClaw.
+- Улучшения категоризации и качества разделов.
+- Очистки битых ссылок и устаревших проектов.
 
 Please include a short relevance note when submitting a new entry.
 

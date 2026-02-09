@@ -5,9 +5,9 @@
 
 ![Awesome OpenClaw Banner](banner.jpg)
 
-A curated list of high-signal resources for **OpenClaw** (formerly **Moltbot**, originally **Clawdbot**): frameworks, skills, tooling, deployments, and real-world use cases.
+Liste curée de ressources à fort signal pour **OpenClaw** (anciennement **Moltbot**, à l’origine **Clawdbot**) : frameworks, skills, outils, déploiements et cas d’usage réels.
 
-OpenClaw is an open-source, self-hosted AI agent framework that connects LLMs to tools, messaging channels, and memory systems so agents can execute real workflows. Formerly known as Moltbot and Clawdbot, it is designed for extensibility through skills, plugins, and ecosystem integrations.
+OpenClaw est un framework d’agent IA open source et auto-hébergé qui relie les LLM aux outils, canaux de messagerie et systèmes de mémoire afin d’exécuter de vrais workflows. Anciennement Moltbot/Clawdbot, il est conçu pour être extensible via des skills, plugins et intégrations d’écosystème.
 
 ## Navigation
 
@@ -28,8 +28,8 @@ OpenClaw is an open-source, self-hosted AI agent framework that connects LLMs to
 
 ## Status Markers
 
-- 🎖️ Official OpenClaw-maintained resource (org repo, official docs, or official channels).
-- 💵 Paid service or paid tier commonly required for full functionality.
+- 🎖️ Ressource officielle maintenue par OpenClaw (repo d’organisation, docs officielles ou canaux officiels).
+- 💵 Peut nécessiter un service ou un plan payant pour un usage complet.
 
 ---
 
@@ -185,11 +185,11 @@ OpenClaw is an open-source, self-hosted AI agent framework that connects LLMs to
 
 ## Contributing
 
-PRs are welcome for:
+Les PR sont les bienvenues pour :
 
-- New high-signal OpenClaw ecosystem links.
-- Better categorization and section quality.
-- Dead-link cleanup and stale project removal.
+- Ajouter des liens OpenClaw à fort signal.
+- Améliorer la catégorisation et la qualité des sections.
+- Nettoyer les liens morts et retirer les projets obsolètes.
 
 Please include a short relevance note when submitting a new entry.
 

@@ -5,9 +5,9 @@
 
 ![Awesome OpenClaw Banner](banner.jpg)
 
-A curated list of high-signal resources for **OpenClaw** (formerly **Moltbot**, originally **Clawdbot**): frameworks, skills, tooling, deployments, and real-world use cases.
+Kuratiere Liste mit hochwertigen Ressourcen für **OpenClaw** (früher **Moltbot**, ursprünglich **Clawdbot**): Frameworks, Skills, Tools, Deployments und echte Anwendungsfälle.
 
-OpenClaw is an open-source, self-hosted AI agent framework that connects LLMs to tools, messaging channels, and memory systems so agents can execute real workflows. Formerly known as Moltbot and Clawdbot, it is designed for extensibility through skills, plugins, and ecosystem integrations.
+OpenClaw ist ein Open-Source-, selbst gehostetes KI-Agenten-Framework, das LLMs mit Tools, Messaging-Kanälen und Speichersystemen verbindet, damit Agenten reale Workflows ausführen können. Früher hieß es Moltbot bzw. Clawdbot und ist auf Erweiterbarkeit durch Skills, Plugins und Ökosystem-Integrationen ausgelegt.
 
 ## Navigation
 
@@ -28,8 +28,8 @@ OpenClaw is an open-source, self-hosted AI agent framework that connects LLMs to
 
 ## Status Markers
 
-- 🎖️ Official OpenClaw-maintained resource (org repo, official docs, or official channels).
-- 💵 Paid service or paid tier commonly required for full functionality.
+- 🎖️ Offizielle, von OpenClaw gepflegte Ressource (Org-Repo, offizielle Doku oder offizielle Kanäle).
+- 💵 Für den vollen Funktionsumfang ist oft ein kostenpflichtiger Dienst/Plan nötig.
 
 ---
 
@@ -185,11 +185,11 @@ OpenClaw is an open-source, self-hosted AI agent framework that connects LLMs to
 
 ## Contributing
 
-PRs are welcome for:
+PRs sind willkommen für:
 
-- New high-signal OpenClaw ecosystem links.
-- Better categorization and section quality.
-- Dead-link cleanup and stale project removal.
+- Neue hochwertige OpenClaw-Ökosystem-Links.
+- Bessere Kategorisierung und Abschnittsqualität.
+- Bereinigung toter Links und veralteter Projekte.
 
 Please include a short relevance note when submitting a new entry.
 

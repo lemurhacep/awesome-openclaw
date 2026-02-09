@@ -5,9 +5,9 @@
 
 ![Awesome OpenClaw Banner](banner.jpg)
 
-A curated list of high-signal resources for **OpenClaw** (formerly **Moltbot**, originally **Clawdbot**): frameworks, skills, tooling, deployments, and real-world use cases.
+Lista curada de recursos de alto valor para **OpenClaw** (antes **Moltbot**, originalmente **Clawdbot**): frameworks, skills, herramientas, despliegues y casos de uso reales.
 
-OpenClaw is an open-source, self-hosted AI agent framework that connects LLMs to tools, messaging channels, and memory systems so agents can execute real workflows. Formerly known as Moltbot and Clawdbot, it is designed for extensibility through skills, plugins, and ecosystem integrations.
+OpenClaw es un framework de agentes de IA, open source y autoalojado, que conecta LLMs con herramientas, canales de mensajería y sistemas de memoria para ejecutar flujos de trabajo reales. Antes se conocía como Moltbot y Clawdbot, y está diseñado para extenderse mediante skills, plugins e integraciones del ecosistema.
 
 ## Navigation
 
@@ -28,8 +28,8 @@ OpenClaw is an open-source, self-hosted AI agent framework that connects LLMs to
 
 ## Status Markers
 
-- 🎖️ Official OpenClaw-maintained resource (org repo, official docs, or official channels).
-- 💵 Paid service or paid tier commonly required for full functionality.
+- 🎖️ Recurso oficial mantenido por OpenClaw (repo de la organización, docs oficiales o canales oficiales).
+- 💵 Puede requerir servicio o plan de pago para uso completo.
 
 ---
 
@@ -185,11 +185,11 @@ OpenClaw is an open-source, self-hosted AI agent framework that connects LLMs to
 
 ## Contributing
 
-PRs are welcome for:
+Se aceptan PR para:
 
-- New high-signal OpenClaw ecosystem links.
-- Better categorization and section quality.
-- Dead-link cleanup and stale project removal.
+- Nuevos enlaces de alto valor del ecosistema OpenClaw.
+- Mejor categorización y calidad de secciones.
+- Limpieza de enlaces rotos y proyectos obsoletos.
 
 Please include a short relevance note when submitting a new entry.
 

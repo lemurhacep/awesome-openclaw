@@ -5,9 +5,9 @@
 
 ![Awesome OpenClaw Banner](banner.jpg)
 
-A curated list of high-signal resources for **OpenClaw** (formerly **Moltbot**, originally **Clawdbot**): frameworks, skills, tooling, deployments, and real-world use cases.
+**OpenClaw**（旧称 **Moltbot**、当初は **Clawdbot**）の高品質リソースを集めた一覧です。フレームワーク、スキル、ツール、デプロイ、実運用ユースケースを掲載しています。
 
-OpenClaw is an open-source, self-hosted AI agent framework that connects LLMs to tools, messaging channels, and memory systems so agents can execute real workflows. Formerly known as Moltbot and Clawdbot, it is designed for extensibility through skills, plugins, and ecosystem integrations.
+OpenClaw は、LLM をツール・メッセージチャネル・メモリと接続し、実際のワークフローを実行できるようにするオープンソースのセルフホスト型 AI エージェント基盤です。旧称は Moltbot / Clawdbot で、スキル・プラグイン・エコシステム連携による拡張性を重視しています。
 
 ## Navigation
 
@@ -28,8 +28,8 @@ OpenClaw is an open-source, self-hosted AI agent framework that connects LLMs to
 
 ## Status Markers
 
-- 🎖️ Official OpenClaw-maintained resource (org repo, official docs, or official channels).
-- 💵 Paid service or paid tier commonly required for full functionality.
+- 🎖️ OpenClaw 公式が管理（組織リポジトリ、公式ドキュメント、公式チャネル）。
+- 💵 有料サービスまたは有料プランが必要な場合があります。
 
 ---
 
@@ -185,11 +185,11 @@ OpenClaw is an open-source, self-hosted AI agent framework that connects LLMs to
 
 ## Contributing
 
-PRs are welcome for:
+PR を歓迎します：
 
-- New high-signal OpenClaw ecosystem links.
-- Better categorization and section quality.
-- Dead-link cleanup and stale project removal.
+- 高品質な OpenClaw エコシステムリンクの追加。
+- カテゴリ整理とセクション品質の改善。
+- リンク切れと古いプロジェクトの整理。
 
 Please include a short relevance note when submitting a new entry.
 

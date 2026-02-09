@@ -5,9 +5,9 @@
 
 ![Awesome OpenClaw Banner](banner.jpg)
 
-A curated list of high-signal resources for **OpenClaw** (formerly **Moltbot**, originally **Clawdbot**): frameworks, skills, tooling, deployments, and real-world use cases.
+一份高质量的 **OpenClaw**（原名 **Moltbot**、最初为 **Clawdbot**）资源清单：框架、技能、工具、部署与真实用例。
 
-OpenClaw is an open-source, self-hosted AI agent framework that connects LLMs to tools, messaging channels, and memory systems so agents can execute real workflows. Formerly known as Moltbot and Clawdbot, it is designed for extensibility through skills, plugins, and ecosystem integrations.
+OpenClaw 是一个开源、自托管的 AI Agent 框架，可将大模型与工具、消息通道和记忆系统连接起来，让 Agent 执行真实工作流。它曾使用 Moltbot 和 Clawdbot 名称，并通过技能、插件与生态集成实现可扩展性。
 
 ## Navigation
 
@@ -28,8 +28,8 @@ OpenClaw is an open-source, self-hosted AI agent framework that connects LLMs to
 
 ## Status Markers
 
-- 🎖️ Official OpenClaw-maintained resource (org repo, official docs, or official channels).
-- 💵 Paid service or paid tier commonly required for full functionality.
+- 🎖️ 由 OpenClaw 官方维护（组织仓库、官方文档或官方渠道）。
+- 💵 通常需要付费服务或付费套餐。
 
 ---
 
@@ -185,11 +185,11 @@ OpenClaw is an open-source, self-hosted AI agent framework that connects LLMs to
 
 ## Contributing
 
-PRs are welcome for:
+欢迎提交 PR：
 
-- New high-signal OpenClaw ecosystem links.
-- Better categorization and section quality.
-- Dead-link cleanup and stale project removal.
+- 新增高质量 OpenClaw 生态链接。
+- 改进分类与章节质量。
+- 清理失效链接和过时项目。
 
 Please include a short relevance note when submitting a new entry.
 

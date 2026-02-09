@@ -5,9 +5,9 @@
 
 ![Awesome OpenClaw Banner](banner.jpg)
 
-A curated list of high-signal resources for **OpenClaw** (formerly **Moltbot**, originally **Clawdbot**): frameworks, skills, tooling, deployments, and real-world use cases.
+**OpenClaw**(이전 명칭 **Moltbot**, 초기 **Clawdbot**)의 고신뢰 리소스를 모은 큐레이션 목록입니다: 프레임워크, 스킬, 도구, 배포, 실사용 사례.
 
-OpenClaw is an open-source, self-hosted AI agent framework that connects LLMs to tools, messaging channels, and memory systems so agents can execute real workflows. Formerly known as Moltbot and Clawdbot, it is designed for extensibility through skills, plugins, and ecosystem integrations.
+OpenClaw는 LLM을 도구, 메시징 채널, 메모리 시스템에 연결해 실제 워크플로를 실행할 수 있게 해주는 오픈소스 셀프호스팅 AI 에이전트 프레임워크입니다. Moltbot/Clawdbot에서 이름이 변경되었으며, 스킬·플러그인·생태계 통합을 통한 확장성을 지향합니다.
 
 ## Navigation
 
@@ -28,8 +28,8 @@ OpenClaw is an open-source, self-hosted AI agent framework that connects LLMs to
 
 ## Status Markers
 
-- 🎖️ Official OpenClaw-maintained resource (org repo, official docs, or official channels).
-- 💵 Paid service or paid tier commonly required for full functionality.
+- 🎖️ OpenClaw 공식 관리 리소스(조직 저장소, 공식 문서, 공식 채널).
+- 💵 전체 기능 사용에 유료 서비스/플랜이 필요할 수 있습니다.
 
 ---
 
@@ -185,11 +185,11 @@ OpenClaw is an open-source, self-hosted AI agent framework that connects LLMs to
 
 ## Contributing
 
-PRs are welcome for:
+PR을 환영합니다:
 
-- New high-signal OpenClaw ecosystem links.
-- Better categorization and section quality.
-- Dead-link cleanup and stale project removal.
+- 고신뢰 OpenClaw 생태계 링크 추가.
+- 분류 및 섹션 품질 개선.
+- 죽은 링크 정리 및 오래된 프로젝트 제거.
 
 Please include a short relevance note when submitting a new entry.
 
