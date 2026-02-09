@@ -17,7 +17,6 @@ A curated list of high-signal resources for **OpenClaw** (formerly **Moltbot**, 
 - [Memory and Context Systems](#memory-and-context-systems)
 - [Official Resources](#official-resources)
 - [Plugins and Integrations](#plugins-and-integrations)
-- [Security Notes](#security-notes)
 - [Skills and Skill Indexes](#skills-and-skill-indexes)
 - [Status Markers](#status-markers)
 
@@ -175,15 +174,6 @@ A curated list of high-signal resources for **OpenClaw** (formerly **Moltbot**, 
 
 - [1186258278/OpenClawChineseTranslation](https://github.com/1186258278/OpenClawChineseTranslation) - Translation-focused setup repository. ![GitHub stars](https://img.shields.io/github/stars/1186258278/OpenClawChineseTranslation?style=social)
 - [jiulingyun/openclaw-cn](https://github.com/jiulingyun/openclaw-cn) - Chinese-oriented OpenClaw adaptation. ![GitHub stars](https://img.shields.io/github/stars/jiulingyun/openclaw-cn?style=social)
-
-## Security Notes
-
-- Treat third-party skills as untrusted code.
-- Review repository source and maintainer profile before install.
-- Start with least privilege and allow-listed tools.
-- Keep API keys out of prompts, logs, and skill templates.
-- Prefer sandboxed execution for untrusted integrations.
-- Use official references first: [Skills Docs](https://docs.openclaw.ai/tools/skills) and [Gateway Security](https://docs.openclaw.ai/gateway/security).
 
 ## Contributing
 
