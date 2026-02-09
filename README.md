@@ -45,6 +45,11 @@ A curated list of high-signal resources for **OpenClaw** (formerly **Moltbot**, 
 ## Alternative Architectures
 
 - [gavrielc/nanoclaw](https://github.com/gavrielc/nanoclaw) - Lightweight alternative architecture/framework in the OpenClaw ecosystem. `Community` `OSS`
+- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight OpenClaw-inspired personal AI assistant implementation. `Community` `OSS`
+- [microclaw/microclaw](https://github.com/microclaw/microclaw) - Rust-based OpenClaw-inspired assistant with tool execution and session resume. `Community` `OSS`
+- [puremachinery/carapace](https://github.com/puremachinery/carapace) - Security-focused OpenClaw-inspired assistant with sandboxing and plugin isolation. `Community` `OSS`
+- [puretensor/hal-claude](https://github.com/puretensor/hal-claude) - Minimal OpenClaw-style alternative emphasizing small code footprint. `Community` `OSS`
+- [ysz/nanoClaw](https://github.com/ysz/nanoClaw) - Lightweight secure OpenClaw-inspired assistant with rapid setup. `Community` `OSS`
 
 ## Official Resources
 
@@ -57,7 +62,9 @@ A curated list of high-signal resources for **OpenClaw** (formerly **Moltbot**, 
 - [Onboarding Wizard](https://docs.openclaw.ai/start/wizard) - Guided setup flow. `Official`
 - [OpenClaw Docs](https://docs.openclaw.ai) - Main documentation portal. `Official`
 - [OpenClaw Website](https://openclaw.ai) - Product and project homepage. `Official`
+- [openclaw/clawgo](https://github.com/openclaw/clawgo) - Go implementation for Clawd node infrastructure. `Official` `OSS`
 - [openclaw/nix-openclaw](https://github.com/openclaw/nix-openclaw) - Nix packaging and setup resources. `Official` `OSS` `Infra`
+- [openclaw/openclaw.ai](https://github.com/openclaw/openclaw.ai) - Official website repository. `Official` `OSS`
 - [Showcase](https://docs.openclaw.ai/start/showcase) - Example usage and demos. `Official`
 - [Skills Docs](https://docs.openclaw.ai/tools/skills) - Official skill model and usage docs. `Official` `Skills`
 
@@ -66,6 +73,7 @@ A curated list of high-signal resources for **OpenClaw** (formerly **Moltbot**, 
 - [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - Real-world usage patterns and domain examples. `Community` `Catalog`
 - [thewh1teagle/awesome-openclaw](https://github.com/thewh1teagle/awesome-openclaw) - Broad ecosystem curation with tools and workflows. `Community` `Catalog`
 - [ThisIsJeron/awesome-openclaw-plugins](https://github.com/ThisIsJeron/awesome-openclaw-plugins) - Curated list of OpenClaw plugins across channels, memory, observability, and governance. `Community` `Catalog` `Plugins`
+- [vivy-yi/awesome-openclaw](https://github.com/vivy-yi/awesome-openclaw) - Large multilingual ecosystem curation across platforms, tools, and deployments. `Community` `Catalog`
 - [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - Major community index of OpenClaw skills with rename-lineage context. `Community` `Catalog` `Skills`
 
 ## Skills and Skill Indexes
@@ -112,9 +120,13 @@ A curated list of high-signal resources for **OpenClaw** (formerly **Moltbot**, 
 - [supermemory OpenClaw Integration Docs](https://supermemory.ai/docs/integrations/openclaw) - Official guide for deploying Supermemory with OpenClaw. `Community` `Docs` `Paid`
 - [supermemoryai/openclaw-supermemory](https://github.com/supermemoryai/openclaw-supermemory) - OpenClaw long-term memory plugin backed by Supermemory cloud. `Community` `OSS` `Plugins` `Paid`
 - [tobi/qmd](https://github.com/tobi/qmd) - Markdown-native memory and knowledge workflows for persistent agent context. `Community` `OSS`
+- [Vel-Labs/molting-memory](https://github.com/Vel-Labs/molting-memory) - Qdrant-based long-term memory layer for OpenClaw-style agents. `Community` `OSS`
 
 ## Developer Tooling and Observability
 
+- [bokonon23/clawdbot-cost-monitor](https://github.com/bokonon23/clawdbot-cost-monitor) - Cost and spending monitor for OpenClaw/Clawdbot usage. `Community` `OSS`
+- [grp06/openclaw-studio](https://github.com/grp06/openclaw-studio) - Studio-style web IDE and management UI for OpenClaw workflows. `Community` `OSS`
+- [ibelick/webclaw](https://github.com/ibelick/webclaw) - Fast web client interface for OpenClaw interactions. `Community` `OSS`
 - [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) - Token and cost tracking across coding assistant workflows. `Community` `OSS`
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Transferable skill-pack patterns useful for OpenClaw skill design. `Community` `OSS` `Skills`
 - [luccast/crabwalk](https://github.com/luccast/crabwalk) - Monitoring companion for OpenClaw agent sessions. `Community` `OSS`
@@ -129,11 +141,16 @@ A curated list of high-signal resources for **OpenClaw** (formerly **Moltbot**, 
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - Self-hosted server panel often used for OpenClaw deployments. `Community` `OSS` `Infra`
 - [badrisnarayanan/antigravity-claude-proxy](https://github.com/badrisnarayanan/antigravity-claude-proxy) - Proxy and routing support for model access in assistant workflows. `Community` `OSS` `Infra`
 - [BlockRunAI/ClawRouter](https://github.com/BlockRunAI/ClawRouter) - Routing and cost optimization layer for OpenClaw-style agent setups. `Community` `OSS` `Infra`
+- [cloudflare/moltworker](https://github.com/cloudflare/moltworker) - Cloudflare Worker deployment path for OpenClaw-compatible runtimes. `Community` `OSS` `Infra`
+- [essamamdani/openclaw-coolify](https://github.com/essamamdani/openclaw-coolify) - Coolify template for simplified OpenClaw hosting. `Community` `OSS` `Infra`
+- [khal3d/openclaw](https://github.com/khal3d/openclaw) - Container and Helm deployment stack for OpenClaw. `Community` `OSS` `Infra`
 - [miantiao-me/cloud-claw](https://github.com/miantiao-me/cloud-claw) - One-click Cloudflare Containers deployment for personal OpenClaw agents. `Community` `OSS` `Infra`
 - [miaoxworld/OpenClawInstaller](https://github.com/miaoxworld/OpenClawInstaller) - Installer and setup automation helper. `Community` `OSS` `Infra`
 - [molt-bot/openclaw-trading-assistant](https://github.com/molt-bot/openclaw-trading-assistant) - Trading-focused assistant setup built on OpenClaw. `Community` `OSS`
 - [openclaw/clawdinators](https://github.com/openclaw/clawdinators) - Declarative NixOS and cloud infrastructure for maintainer-grade agent hosts. `Official` `OSS` `Infra`
+- [openclaw/homebrew-tap](https://github.com/openclaw/homebrew-tap) - Homebrew tap for macOS OpenClaw installation. `Official` `OSS` `Infra`
 - [openclaw/openclaw-ansible](https://github.com/openclaw/openclaw-ansible) - Hardened automated deployment using Ansible and containerized runtime patterns. `Official` `OSS` `Infra`
+- [willbullen/openclaw-docker](https://github.com/willbullen/openclaw-docker) - Production-focused Docker Compose setup with security hardening. `Community` `OSS` `Infra`
 
 ## Localization and Regional Forks
 
