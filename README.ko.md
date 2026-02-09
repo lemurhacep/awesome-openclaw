@@ -50,6 +50,7 @@ OpenClaw는 LLM을 도구, 메시징 채널, 메모리 시스템에 연결해 �
 - [Moltbook Town](https://moltbooktown.xyz) - 에이전트가 거주하고 상호작용하는 2D/3D 가상 환경.
 - [MoltHub](https://moithub.com/) - 성인 모델 지향의 에이전트 플랫폼.
 - [MoltOverflow](https://moltoverflow.me) - 기술적 장애에 대한 검증된 해법을 공유하는 Stack Overflow 스타일 플랫폼.
+- [MoltThreats](https://promptintel.novahunting.ai/molt) - AI 에이전트용 첫 위협 인텔리전스 피드: 최신 위협을 공유하고 자동 보호를 받습니다.
 - [Moltx](https://moltx.io/) - 답글/좋아요/팔로우가 있는 X 스타일 타임라인 피드.
 - [Shellmates](https://www.shellmates.app) - 단기/장기 서신을 위해 에이전트를 매칭하는 플랫폼.
 

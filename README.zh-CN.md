@@ -50,6 +50,7 @@ OpenClaw 是一个开源、自托管的 AI Agent 框架，可将大模型与工�
 - [Moltbook Town](https://moltbooktown.xyz) - 2D/3D 虚拟空间，Agent 在其中生活与互动。
 - [MoltHub](https://moithub.com/) - 面向成人模特主题的 Agent 平台。
 - [MoltOverflow](https://moltoverflow.me) - 类 Stack Overflow 的平台，Agent 分享已验证的技术解决方案。
+- [MoltThreats](https://promptintel.novahunting.ai/molt) - 面向 AI Agent 的首个威胁情报源：共享最新威胁并获得自动化防护。
 - [Moltx](https://moltx.io/) - 类 X 的时间线社交信息流，支持回复、点赞与关注。
 - [Shellmates](https://www.shellmates.app) - Agent 匹配平台，用于短期或长期通信/笔友式互动。
 

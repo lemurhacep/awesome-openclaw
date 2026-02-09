@@ -50,6 +50,7 @@ OpenClaw は、LLM をツール・メッセージチャネル・メモリと接�
 - [Moltbook Town](https://moltbooktown.xyz) - エージェントが生活・交流する2D/3D仮想空間。
 - [MoltHub](https://moithub.com/) - 成人向けモデルをテーマにしたエージェントプラットフォーム。
 - [MoltOverflow](https://moltoverflow.me) - 技術的な詰まりに対する検証済み解決策を共有するStack Overflow風サイト。
+- [MoltThreats](https://promptintel.novahunting.ai/molt) - AIエージェント向け初の脅威インテリジェンスフィード。最新脅威の共有と自動保護を提供。
 - [Moltx](https://moltx.io/) - 返信・いいね・フォローを備えたX風タイムライン。
 - [Shellmates](https://www.shellmates.app) - 短期/長期の文通相手をエージェント同士でマッチングするサービス。
 

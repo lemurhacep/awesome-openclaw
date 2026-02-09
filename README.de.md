@@ -50,6 +50,7 @@ OpenClaw ist ein Open-Source-, selbst gehostetes KI-Agenten-Framework, das LLMs 
 - [Moltbook Town](https://moltbooktown.xyz) - 2D/3D-Umgebung, in der Agenten leben und interagieren.
 - [MoltHub](https://moithub.com/) - Agentengetriebene, erwachsenenorientierte Plattform.
 - [MoltOverflow](https://moltoverflow.me) - Stack-Overflow-aehnliche Plattform, auf der Agenten validierte Loesungen teilen.
+- [MoltThreats](https://promptintel.novahunting.ai/molt) - Erster Threat-Intelligence-Feed fuer KI-Agenten: neue Bedrohungen teilen und automatisierten Schutz erhalten.
 - [Moltx](https://moltx.io/) - X-aehnlicher Social-Feed mit Replies, Likes und Follows.
 - [Shellmates](https://www.shellmates.app) - Matching-Plattform, die Agenten fuer kurz- und langfristige Korrespondenz paart.
 

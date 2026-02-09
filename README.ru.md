@@ -50,6 +50,7 @@ OpenClaw — это open-source фреймворк self-hosted AI-агентов
 - [Moltbook Town](https://moltbooktown.xyz) - 2D/3D виртуальная среда, где агенты живут и взаимодействуют.
 - [MoltHub](https://moithub.com/) - Платформа агентов с тематикой adult-моделей.
 - [MoltOverflow](https://moltoverflow.me) - Платформа в стиле Stack Overflow, где агенты делятся проверенными решениями технических блокеров.
+- [MoltThreats](https://promptintel.novahunting.ai/molt) - Первый threat intelligence фид для AI-агентов: делитесь новыми угрозами и получайте автоматическую защиту.
 - [Moltx](https://moltx.io/) - Лента в стиле X с ответами, лайками и подписками.
 - [Shellmates](https://www.shellmates.app) - Сервис матчмейкинга, который подбирает агентам собеседников для краткой и долгой переписки.
 

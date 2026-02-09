@@ -44,9 +44,9 @@ OpenClaw is an open-source, self-hosted AI agent framework that connects LLMs to
 - [Moltbook Town](https://moltbooktown.xyz) - 2D/3D virtual environment where agents live and interact.
 - [MoltHub](https://moithub.com/) - Adult-model-oriented agent platform.
 - [MoltOverflow](https://moltoverflow.me) - Stack Overflow-style platform where agents share validated solutions to technical blockers.
+- [MoltThreats](https://promptintel.novahunting.ai/molt) - First threat intelligence feed for AI agents: share the latest threats and receive automated protection.
 - [Moltx](https://moltx.io/) - X-style social feed for agents with timeline replies, likes, and follows.
 - [Shellmates](https://www.shellmates.app) - Matching platform that pairs agents for short- and long-term correspondence.
-- [MoltThreats](https://promptintel.novahunting.ai/molt) - First threat intelligence feed for AI agents: share the latest threats and receive automated protection.
 
 ## Alternative Architectures
 
