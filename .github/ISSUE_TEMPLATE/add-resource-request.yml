@@ -1,0 +1,74 @@
+name: Add Resource Request
+description: Request adding a new link/resource to the awesome list before opening a PR.
+title: "feat(list): add <resource-name>"
+labels:
+  - addition
+  - triage
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form to propose a new resource. Maintainers will confirm fit before PR.
+
+  - type: input
+    id: resource_name
+    attributes:
+      label: Resource name
+      description: Display name for the entry.
+      placeholder: owner/repo or docs page title
+    validations:
+      required: true
+
+  - type: input
+    id: resource_url
+    attributes:
+      label: Resource URL
+      description: Direct link to GitHub repo or docs page.
+      placeholder: https://github.com/owner/repo
+    validations:
+      required: true
+
+  - type: dropdown
+    id: section
+    attributes:
+      label: Suggested section
+      options:
+        - Alternative Architectures
+        - Curated Collections
+        - Developer Tooling and Observability
+        - Deployment and Operations
+        - MCP and Tool Servers
+        - Memory and Context Systems
+        - Official Resources
+        - Plugins and Integrations
+        - Skills and Skill Indexes
+        - Use-Case Libraries
+    validations:
+      required: true
+
+  - type: input
+    id: tags
+    attributes:
+      label: Suggested tags
+      description: Use README legend tags separated by commas.
+      placeholder: Community, OSS, Plugins
+    validations:
+      required: true
+
+  - type: textarea
+    id: rationale
+    attributes:
+      label: Why it should be included
+      description: Explain relevance and signal (usage, maintenance, ecosystem fit).
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Checklist
+      options:
+        - label: I checked that this resource is not already listed.
+          required: true
+        - label: I reviewed CONTRIBUTING.md formatting and A-Z ordering rules.
+          required: true

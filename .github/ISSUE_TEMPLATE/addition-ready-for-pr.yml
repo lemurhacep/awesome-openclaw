@@ -1,0 +1,67 @@
+name: Addition Ready for PR
+description: Propose a reviewed addition and indicate you are about to open a PR.
+title: "docs(readme): add <resource-name>"
+labels:
+  - addition
+  - ready-for-pr
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this after discussion/approval to share final details before submitting your PR.
+
+  - type: input
+    id: approved_issue
+    attributes:
+      label: Related approved issue
+      description: Link to the Add Resource Request issue.
+      placeholder: https://github.com/<org>/<repo>/issues/123
+    validations:
+      required: true
+
+  - type: input
+    id: final_url
+    attributes:
+      label: Final resource URL
+      placeholder: https://github.com/owner/repo
+    validations:
+      required: true
+
+  - type: input
+    id: final_line
+    attributes:
+      label: Final one-line entry
+      description: Paste the exact README line you will add.
+      placeholder: - [name](url) - short description. `Tag` `Tag`
+    validations:
+      required: true
+
+  - type: dropdown
+    id: section
+    attributes:
+      label: Target section
+      options:
+        - Alternative Architectures
+        - Curated Collections
+        - Developer Tooling and Observability
+        - Deployment and Operations
+        - MCP and Tool Servers
+        - Memory and Context Systems
+        - Official Resources
+        - Plugins and Integrations
+        - Skills and Skill Indexes
+        - Use-Case Libraries
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Final checks
+      options:
+        - label: Entry is one line and uses README tag legend.
+          required: true
+        - label: Entry position in the target section is A-Z sorted.
+          required: true
+        - label: PR title and commits will use semantic prefixes (feat/fix/docs/chore/etc.).
+          required: true
