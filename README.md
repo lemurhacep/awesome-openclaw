@@ -6,6 +6,7 @@ A curated list of high-signal resources for **OpenClaw** (formerly **Moltbot**, 
 
 - [Alternative Architectures](#alternative-architectures)
 - [Canonical Project and Aliases](#canonical-project-and-aliases)
+- [Community Channels](#community-channels)
 - [Contributing](#contributing)
 - [Curated Collections](#curated-collections)
 - [Developer Tooling and Observability](#developer-tooling-and-observability)
@@ -42,6 +43,12 @@ A curated list of high-signal resources for **OpenClaw** (formerly **Moltbot**, 
 - [moltbot/moltbot](https://github.com/moltbot/moltbot) - Legacy alias URL redirecting to the canonical repository. `Alias`
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Core project. `Official` `OSS`
 
+## Community Channels
+
+- [GitHub Discussions](https://github.com/openclaw/openclaw/discussions) - Community discussion forum for help, ideas, and showcase posts. `Official`
+- [GitHub Issues](https://github.com/openclaw/openclaw/issues) - Bug reports and feature requests for OpenClaw core. `Official`
+- [MoltBook](https://moltbook.com) - Agent-first social platform connected to the broader Molt ecosystem. `Community`
+
 ## Alternative Architectures
 
 - [gavrielc/nanoclaw](https://github.com/gavrielc/nanoclaw) - Lightweight alternative architecture/framework in the OpenClaw ecosystem. `Community` `OSS`
@@ -53,7 +60,10 @@ A curated list of high-signal resources for **OpenClaw** (formerly **Moltbot**, 
 
 ## Official Resources
 
+- [AGENTS.md](https://github.com/openclaw/openclaw/blob/main/AGENTS.md) - Agent workspace and behavior configuration reference. `Official` `Docs`
+- [CHANGELOG.md](https://github.com/openclaw/openclaw/blob/main/CHANGELOG.md) - Core release notes and change history. `Official` `Docs`
 - [Channels](https://docs.openclaw.ai/channels) - Official channel integrations and messaging surfaces. `Official`
+- [ClawHub](https://clawhub.ai) - Official skill registry and discovery portal. `Official` `Skills`
 - [Discord](https://discord.gg/clawd) - Community chat and support server. `Official`
 - [Docker Install](https://docs.openclaw.ai/install/docker) - Containerized install guide. `Official` `Infra`
 - [FAQ](https://docs.openclaw.ai/start/faq) - Frequently asked questions. `Official`
@@ -61,6 +71,7 @@ A curated list of high-signal resources for **OpenClaw** (formerly **Moltbot**, 
 - [Getting Started](https://docs.openclaw.ai/start/getting-started) - Fastest path to a working setup. `Official`
 - [Onboarding Wizard](https://docs.openclaw.ai/start/wizard) - Guided setup flow. `Official`
 - [OpenClaw Docs](https://docs.openclaw.ai) - Main documentation portal. `Official`
+- [OpenClaw Releases](https://github.com/openclaw/openclaw/releases) - Tagged release builds and changelog snapshots. `Official`
 - [OpenClaw Website](https://openclaw.ai) - Product and project homepage. `Official`
 - [openclaw/clawgo](https://github.com/openclaw/clawgo) - Go implementation for Clawd node infrastructure. `Official` `OSS`
 - [openclaw/nix-openclaw](https://github.com/openclaw/nix-openclaw) - Nix packaging and setup resources. `Official` `OSS` `Infra`
@@ -84,6 +95,7 @@ A curated list of high-signal resources for **OpenClaw** (formerly **Moltbot**, 
 - [openclaw/clawhub](https://github.com/openclaw/clawhub) - Official skill directory and discovery surface. `Official` `OSS` `Skills`
 - [openclaw/skills](https://github.com/openclaw/skills) - Archived versions of skills published on ClawHub. `Official` `OSS` `Skills` `Archived`
 - [runkids/skillshare](https://github.com/runkids/skillshare) - Share and synchronize skill packs across AI coding tools. `Community` `OSS` `Skills`
+- [Skills.sh OpenClaw Directory](https://skills.sh/openclaw/openclaw) - Third-party OpenClaw skill discovery directory. `Community` `Docs` `Skills`
 
 ## Plugins and Integrations
 
@@ -108,6 +120,7 @@ A curated list of high-signal resources for **OpenClaw** (formerly **Moltbot**, 
 
 - [Enderfga/openclaw-claude-code-skill](https://github.com/Enderfga/openclaw-claude-code-skill) - OpenClaw skill integration for Claude Code workflows via MCP. `Community` `OSS` `Skills` `MCP`
 - [Helms-AI/openclaw-mcp-server](https://github.com/Helms-AI/openclaw-mcp-server) - MCP server exposing OpenClaw Gateway tools. `Community` `OSS` `MCP`
+- [openclaw/openclaw#1605](https://github.com/openclaw/openclaw/pull/1605) - Early MCP server support implementation work. `Official` `MCP`
 - [openclaw/openclaw#4834](https://github.com/openclaw/openclaw/issues/4834) - Native MCP support discussion/history. `Official` `MCP`
 - [openclaw/openclaw#5121](https://github.com/openclaw/openclaw/pull/5121) - MCP server support implementation PR. `Official` `MCP`
 
