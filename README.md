@@ -15,6 +15,7 @@ A curated list of high-signal resources for **OpenClaw** (formerly **Moltbot**, 
 - [MCP and Tool Servers](#mcp-and-tool-servers)
 - [Memory and Context Systems](#memory-and-context-systems)
 - [Official Resources](#official-resources)
+- [Plugins and Integrations](#plugins-and-integrations)
 - [Security Notes](#security-notes)
 - [Skills and Skill Indexes](#skills-and-skill-indexes)
 - [Tag Legend](#tag-legend)
@@ -26,10 +27,13 @@ A curated list of high-signal resources for **OpenClaw** (formerly **Moltbot**, 
 - `Archived` - Historical archive or legacy storage.
 - `Catalog` - Index/list of many resources.
 - `Community` - Community-maintained project.
+- `Docs` - Documentation, integration guide, or technical write-up.
 - `Infra` - Deployment, packaging, or infrastructure.
 - `MCP` - Model Context Protocol related.
+- `Paid` - Requires paid plan or commercial subscription for full use.
 - `Official` - Maintained by OpenClaw org or official docs/site.
 - `OSS` - Open-source code.
+- `Plugins` - Focused on OpenClaw plugin discovery or implementation.
 - `Skills` - Focused on OpenClaw skill discovery or implementation.
 
 ## Canonical Project and Aliases
@@ -61,6 +65,7 @@ A curated list of high-signal resources for **OpenClaw** (formerly **Moltbot**, 
 
 - [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - Real-world usage patterns and domain examples. `Community` `Catalog`
 - [thewh1teagle/awesome-openclaw](https://github.com/thewh1teagle/awesome-openclaw) - Broad ecosystem curation with tools and workflows. `Community` `Catalog`
+- [ThisIsJeron/awesome-openclaw-plugins](https://github.com/ThisIsJeron/awesome-openclaw-plugins) - Curated list of OpenClaw plugins across channels, memory, observability, and governance. `Community` `Catalog` `Plugins`
 - [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - Major community index of OpenClaw skills with rename-lineage context. `Community` `Catalog` `Skills`
 
 ## Skills and Skill Indexes
@@ -71,6 +76,24 @@ A curated list of high-signal resources for **OpenClaw** (formerly **Moltbot**, 
 - [openclaw/clawhub](https://github.com/openclaw/clawhub) - Official skill directory and discovery surface. `Official` `OSS` `Skills`
 - [openclaw/skills](https://github.com/openclaw/skills) - Archived versions of skills published on ClawHub. `Official` `OSS` `Skills` `Archived`
 
+## Plugins and Integrations
+
+- [bmbsystemsdir/openclaw-model-selector](https://github.com/bmbsystemsdir/openclaw-model-selector) - Smart model routing plugin for suggest-confirm-execute flows. `Community` `OSS` `Plugins`
+- [bmbsystemsdir/openclaw-unified-plugins](https://github.com/bmbsystemsdir/openclaw-unified-plugins) - Unified memory plugin layer combining graph and temporal memory patterns. `Community` `OSS` `Plugins`
+- [ClariSortAi/openclaw-manager-plugin](https://github.com/ClariSortAi/openclaw-manager-plugin) - Lifecycle management plugin for installation and configuration workflows. `Community` `OSS` `Plugins`
+- [Crossmint/openclaw-crossmint-plugin](https://github.com/Crossmint/openclaw-crossmint-plugin) - Smart-wallet and on-chain payment integration plugin for agent transactions. `Community` `OSS` `Plugins`
+- [DNYoussef/guardspine-openclaw](https://github.com/DNYoussef/guardspine-openclaw) - Governance plugin with deny-by-default tool gating and risk tiers. `Community` `OSS` `Plugins`
+- [flooredApe/openclaw-xmtp](https://github.com/flooredApe/openclaw-xmtp) - XMTP wallet messaging channel plugin for Web3-native communication. `Community` `OSS` `Plugins`
+- [kcherry497/OpenClaw-IRC-Plugin](https://github.com/kcherry497/OpenClaw-IRC-Plugin) - IRC channel plugin built around KISS security principles. `Community` `OSS` `Plugins`
+- [m1heng/clawdbot-feishu](https://github.com/m1heng/clawdbot-feishu) - Feishu/Lark channel plugin with enterprise bot support. `Community` `OSS` `Plugins`
+- [magicwang1111/openclaw-wechat-plugin](https://github.com/magicwang1111/openclaw-wechat-plugin) - WeChat messaging integration plugin. `Community` `OSS` `Plugins`
+- [MemTensor/MemOS-Cloud-OpenClaw-Plugin](https://github.com/MemTensor/MemOS-Cloud-OpenClaw-Plugin) - Cloud memory backend plugin for persistent recall and capture. `Community` `OSS` `Plugins`
+- [rickybloomfield/OuraClaw](https://github.com/rickybloomfield/OuraClaw) - Oura integration plugin for readiness, sleep, and activity summaries. `Community` `OSS` `Plugins`
+- [robb99/clay-webhook-bridge](https://github.com/robb99/clay-webhook-bridge) - Home Assistant to OpenClaw webhook bridge for event-driven automations. `Community` `OSS` `Plugins`
+- [robertcuadra/compaction-context](https://github.com/robertcuadra/compaction-context) - Preserves recent context across compaction cycles. `Community` `OSS` `Plugins`
+- [soimy/openclaw-channel-dingtalk](https://github.com/soimy/openclaw-channel-dingtalk) - DingTalk enterprise channel plugin with stream mode support. `Community` `OSS` `Plugins`
+- [techartdev/OpenClawHomeAssistant](https://github.com/techartdev/OpenClawHomeAssistant) - Home Assistant add-on for running OpenClaw with entity-level integration. `Community` `OSS` `Plugins`
+
 ## MCP and Tool Servers
 
 - [Enderfga/openclaw-claude-code-skill](https://github.com/Enderfga/openclaw-claude-code-skill) - OpenClaw skill integration for Claude Code workflows via MCP. `Community` `OSS` `Skills` `MCP`
@@ -80,9 +103,14 @@ A curated list of high-signal resources for **OpenClaw** (formerly **Moltbot**, 
 
 ## Memory and Context Systems
 
+- [mem0.ai: Memory for OpenClaw](https://mem0.ai/blog/mem0-memory-for-openclaw) - Mem0 engineering write-up and setup path for persistent OpenClaw memory. `Community` `Docs` `Paid`
+- [Mem0 OpenClaw Integration Docs](https://docs.mem0.ai/integrations/openclaw) - Integration documentation for Mem0-backed OpenClaw memory. `Community` `Docs` `Paid`
 - [MemTensor/MemOS](https://github.com/MemTensor/MemOS) - Memory operating system with OpenClaw ecosystem adoption. `Community` `OSS`
 - [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - Agent memory layer for long-lived assistants. `Community` `OSS`
+- [nhevers/MoltBrain](https://github.com/nhevers/MoltBrain) - Long-term memory layer for OpenClaw and MoltBook agent workflows. `Community` `OSS` `Plugins`
 - [oceanbase/powermem](https://github.com/oceanbase/powermem) - Long-term memory infrastructure referenced in Moltbot/Clawdbot plugin contexts. `Community` `OSS`
+- [supermemory OpenClaw Integration Docs](https://supermemory.ai/docs/integrations/openclaw) - Official guide for deploying Supermemory with OpenClaw. `Community` `Docs` `Paid`
+- [supermemoryai/openclaw-supermemory](https://github.com/supermemoryai/openclaw-supermemory) - OpenClaw long-term memory plugin backed by Supermemory cloud. `Community` `OSS` `Plugins` `Paid`
 - [tobi/qmd](https://github.com/tobi/qmd) - Markdown-native memory and knowledge workflows for persistent agent context. `Community` `OSS`
 
 ## Developer Tooling and Observability

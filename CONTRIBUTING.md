@@ -15,7 +15,7 @@ Please submit a PR with:
 
 - Keep entries in strict A-Z order within each section.
 - Keep each entry to a single bullet line (no wrapped sub-bullets for descriptions).
-- Use this format: `- [owner/repo](url) - short description. \`Tag\` \`Tag\``.
+- Use this format: `- [name](url) - short description. \`Tag\` \`Tag\``.
 - Use tags from the README legend and keep tag order consistent.
 
 ## Quality Bar
