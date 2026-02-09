@@ -56,11 +56,6 @@ A curated list of high-signal resources for **OpenClaw** (formerly **Moltbot**, 
 
 - [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - Real-world usage patterns and domain examples. ![GitHub stars](https://img.shields.io/github/stars/hesamsheikh/awesome-openclaw-usecases?style=social)
 - [jensrot/awesome-openclaw](https://github.com/jensrot/awesome-openclaw) - Curated OpenClaw ecosystem resources and tooling references. ![GitHub stars](https://img.shields.io/github/stars/jensrot/awesome-openclaw?style=social)
-- [LAMBDASOFT-org/awesome-openclaw-ecosystem](https://github.com/LAMBDASOFT-org/awesome-openclaw-ecosystem) - Ecosystem-focused curated list of OpenClaw-related hubs and services. ![GitHub stars](https://img.shields.io/github/stars/LAMBDASOFT-org/awesome-openclaw-ecosystem?style=social)
-- [learnclaw/awesome-openclaw](https://github.com/learnclaw/awesome-openclaw) - Community list of OpenClaw resources, integrations, and guides. ![GitHub stars](https://img.shields.io/github/stars/learnclaw/awesome-openclaw?style=social)
-- [thewh1teagle/awesome-openclaw](https://github.com/thewh1teagle/awesome-openclaw) - Broad ecosystem curation with tools and workflows. ![GitHub stars](https://img.shields.io/github/stars/thewh1teagle/awesome-openclaw?style=social)
-- [ThisIsJeron/awesome-openclaw-plugins](https://github.com/ThisIsJeron/awesome-openclaw-plugins) - Curated list of OpenClaw plugins across channels, memory, observability, and governance. ![GitHub stars](https://img.shields.io/github/stars/ThisIsJeron/awesome-openclaw-plugins?style=social)
-- [vivy-yi/awesome-openclaw](https://github.com/vivy-yi/awesome-openclaw) - Large multilingual ecosystem curation across platforms, tools, and deployments. ![GitHub stars](https://img.shields.io/github/stars/vivy-yi/awesome-openclaw?style=social)
 - [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - Major community index of OpenClaw skills with rename-lineage context. ![GitHub stars](https://img.shields.io/github/stars/VoltAgent/awesome-openclaw-skills?style=social)
 
 ## Skills and Skill Indexes
