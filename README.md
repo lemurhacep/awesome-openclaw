@@ -123,20 +123,20 @@ A curated list of high-signal resources for **OpenClaw** (formerly **Moltbot**, 
 
 ## Plugins and Integrations
 
-- [11haonb/wecom-openclaw-plugin](https://github.com/11haonb/wecom-openclaw-plugin) - WeCom (WeChat Work) enterprise messaging plugin for OpenClaw agents. ![GitHub stars](https://img.shields.io/github/stars/11haonb/wecom-openclaw-plugin?style=social)
+- [11haonb/wecom-openclaw-plugin](https://github.com/11haonb/wecom-openclaw-plugin) - WeCom (WeChat Work) enterprise messaging plugin. ![GitHub stars](https://img.shields.io/github/stars/11haonb/wecom-openclaw-plugin?style=social)
 - [AlexAnys/feishu-openclaw](https://github.com/AlexAnys/feishu-openclaw) - Feishu/Lark integration plugin with streamlined self-hosted setup. ![GitHub stars](https://img.shields.io/github/stars/AlexAnys/feishu-openclaw?style=social)
-- [bmbsystemsdir/openclaw-model-selector](https://github.com/bmbsystemsdir/openclaw-model-selector) - Smart model routing plugin for suggest-confirm-execute flows. ![GitHub stars](https://img.shields.io/github/stars/bmbsystemsdir/openclaw-model-selector?style=social)
-- [ClariSortAi/openclaw-manager-plugin](https://github.com/ClariSortAi/openclaw-manager-plugin) - Lifecycle management plugin for installation and configuration workflows. ![GitHub stars](https://img.shields.io/github/stars/ClariSortAi/openclaw-manager-plugin?style=social)
-- [Crossmint/openclaw-crossmint-plugin](https://github.com/Crossmint/openclaw-crossmint-plugin) - Smart-wallet and on-chain payment integration plugin for agent transactions. ![GitHub stars](https://img.shields.io/github/stars/Crossmint/openclaw-crossmint-plugin?style=social)
+- [bmbsystemsdir/openclaw-model-selector](https://github.com/bmbsystemsdir/openclaw-model-selector) - Smart model routing plugin for suggest-confirm-execute. ![GitHub stars](https://img.shields.io/github/stars/bmbsystemsdir/openclaw-model-selector?style=social)
+- [ClariSortAi/openclaw-manager-plugin](https://github.com/ClariSortAi/openclaw-manager-plugin) - Lifecycle management plugin for install and configuration workflows. ![GitHub stars](https://img.shields.io/github/stars/ClariSortAi/openclaw-manager-plugin?style=social)
+- [Crossmint/openclaw-crossmint-plugin](https://github.com/Crossmint/openclaw-crossmint-plugin) - Smart-wallet and on-chain payments plugin for agent transactions. ![GitHub stars](https://img.shields.io/github/stars/Crossmint/openclaw-crossmint-plugin?style=social)
 - [DNYoussef/guardspine-openclaw](https://github.com/DNYoussef/guardspine-openclaw) - Governance plugin with deny-by-default tool gating and risk tiers. ![GitHub stars](https://img.shields.io/github/stars/DNYoussef/guardspine-openclaw?style=social)
-- [lekt9/openclaw-foundry](https://github.com/lekt9/openclaw-foundry) - Meta-extension for generating and evolving skills/plugins from observed workflows. ![GitHub stars](https://img.shields.io/github/stars/lekt9/openclaw-foundry?style=social)
+- [lekt9/openclaw-foundry](https://github.com/lekt9/openclaw-foundry) - Meta-extension for generating and evolving skills/plugins from workflows. ![GitHub stars](https://img.shields.io/github/stars/lekt9/openclaw-foundry?style=social)
 - [limouren01/openclaw_qq_plugin](https://github.com/limouren01/openclaw_qq_plugin) - QQ messaging channel plugin for Chinese platform integration. ![GitHub stars](https://img.shields.io/github/stars/limouren01/openclaw_qq_plugin?style=social)
 - [m1heng/clawdbot-feishu](https://github.com/m1heng/clawdbot-feishu) - Feishu/Lark channel plugin with enterprise bot support. ![GitHub stars](https://img.shields.io/github/stars/m1heng/clawdbot-feishu?style=social)
-- [marshallrichards/ClawPhone](https://github.com/marshallrichards/ClawPhone) - Mobile companion and phone-first interface for OpenClaw workflows. ![GitHub stars](https://img.shields.io/github/stars/marshallrichards/ClawPhone?style=social)
+- [marshallrichards/ClawPhone](https://github.com/marshallrichards/ClawPhone) - Mobile companion with a phone-first interface for workflows. ![GitHub stars](https://img.shields.io/github/stars/marshallrichards/ClawPhone?style=social)
 - [MemTensor/MemOS-Cloud-OpenClaw-Plugin](https://github.com/MemTensor/MemOS-Cloud-OpenClaw-Plugin) - Cloud memory backend plugin for persistent recall and capture. ![GitHub stars](https://img.shields.io/github/stars/MemTensor/MemOS-Cloud-OpenClaw-Plugin?style=social)
 - [rickybloomfield/OuraClaw](https://github.com/rickybloomfield/OuraClaw) - Oura integration plugin for readiness, sleep, and activity summaries. ![GitHub stars](https://img.shields.io/github/stars/rickybloomfield/OuraClaw?style=social)
-- [soimy/openclaw-channel-dingtalk](https://github.com/soimy/openclaw-channel-dingtalk) - DingTalk enterprise channel plugin with stream mode support. ![GitHub stars](https://img.shields.io/github/stars/soimy/openclaw-channel-dingtalk?style=social)
-- [techartdev/OpenClawHomeAssistant](https://github.com/techartdev/OpenClawHomeAssistant) - Home Assistant add-on for running OpenClaw with entity-level integration. ![GitHub stars](https://img.shields.io/github/stars/techartdev/OpenClawHomeAssistant?style=social)
+- [soimy/openclaw-channel-dingtalk](https://github.com/soimy/openclaw-channel-dingtalk) - DingTalk enterprise channel plugin with stream-mode support. ![GitHub stars](https://img.shields.io/github/stars/soimy/openclaw-channel-dingtalk?style=social)
+- [techartdev/OpenClawHomeAssistant](https://github.com/techartdev/OpenClawHomeAssistant) - Home Assistant add-on with entity-level integration. ![GitHub stars](https://img.shields.io/github/stars/techartdev/OpenClawHomeAssistant?style=social)
 
 ## MCP and Tool Servers
 
