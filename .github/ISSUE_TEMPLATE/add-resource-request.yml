@@ -42,16 +42,6 @@ body:
         - Official Resources
         - Plugins and Integrations
         - Skills and Skill Indexes
-        - Use-Case Libraries
-    validations:
-      required: true
-
-  - type: input
-    id: tags
-    attributes:
-      label: Suggested tags
-      description: Use README legend tags separated by commas.
-      placeholder: Community, OSS, Plugins
     validations:
       required: true
 
