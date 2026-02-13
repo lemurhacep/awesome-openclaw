@@ -86,7 +86,6 @@ OpenClaw は、LLM をツール・メッセージチャネル・メモリと接�
 ## キュレーション集
 
 - [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - 実運用のユースケースとドメイン別パターン集。 ![GitHub stars](https://img.shields.io/github/stars/hesamsheikh/awesome-openclaw-usecases?style=social)
-- [jensrot/awesome-openclaw](https://github.com/jensrot/awesome-openclaw) - OpenClawエコシステムのリソースとツール参照のキュレーション。 ![GitHub stars](https://img.shields.io/github/stars/jensrot/awesome-openclaw?style=social)
 - [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - OpenClawスキルの大規模コミュニティ索引（改名の系譜を含む）。 ![GitHub stars](https://img.shields.io/github/stars/VoltAgent/awesome-openclaw-skills?style=social)
 
 <a id="skills-and-skill-indexes"></a>
