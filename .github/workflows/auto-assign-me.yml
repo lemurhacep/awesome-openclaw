@@ -2,9 +2,9 @@ name: Auto-assign self
 
 on:
   issues:
-    types: [opened]
+    types: [opened, reopened]
   pull_request_target:
-    types: [opened]
+    types: [opened, reopened]
 
 permissions:
   issues: write
@@ -20,11 +20,15 @@ jobs:
           script: |
             const assignee = "vincentkoc";
             const target = context.payload.issue || context.payload.pull_request;
-            const number = target.number;
+
+            if (!target || !target.number) {
+              core.setFailed('No issue or pull request found in event payload.');
+              return;
+            }
 
             await github.rest.issues.addAssignees({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              issue_number: number,
+              issue_number: target.number,
               assignees: [assignee],
             });
